@@ -1,0 +1,26 @@
+{
+  "name": "how-days",
+  "version": "1.0.0",
+  "description": "Count days spent on two different dates",
+  "main": "src/index.js",
+  "scripts": {
+    "start" : "node src/index.js",
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilopastor/how-days.git"
+  },
+  "keywords": [
+    "how",
+    "days",
+    "count",
+    "date"
+  ],
+  "author": "Danilo Pastor <yguinho5@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danilopastor/how-days/issues"
+  },
+  "homepage": "https://github.com/Danilopastor/how-days#readme"
+}
